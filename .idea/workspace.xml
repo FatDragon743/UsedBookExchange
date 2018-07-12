@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ade6b987-162e-4dc6-ba63-b0d0bfc934cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/books/edit.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/books/show.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/books_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/books_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/books/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/books/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-    </list>
+    <list default="true" id="ade6b987-162e-4dc6-ba63-b0d0bfc934cd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -348,27 +341,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531381756127</updated>
-      <workItem from="1531381759179" duration="11231000" />
+      <workItem from="1531381759179" duration="11672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11231000" />
+    <option name="totallyTimeSpent" value="11672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50215286" side_tool="true" visible="true" weight="0.33124346" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5011025" side_tool="true" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="4" sideWeight="0.49889746" visible="true" weight="0.3291536" />
       <window_info anchor="bottom" id="Terminal" order="3" />
-      <window_info anchor="bottom" id="Database Console" order="5" sideWeight="0.4994618" weight="0.3265306" />
+      <window_info anchor="bottom" id="Database Console" order="5" sideWeight="0.49889746" weight="0.3260188" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1719956" />
       <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
-      <window_info active="true" anchor="right" id="Database" order="0" visible="true" weight="0.2012128" />
+      <window_info anchor="right" id="Database" order="0" visible="true" weight="0.2012128" />
       <window_info anchor="bottom" id="Find" order="7" sideWeight="0.49784714" weight="0.32857144" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
