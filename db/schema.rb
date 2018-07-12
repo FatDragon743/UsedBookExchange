@@ -18,6 +18,7 @@ ActiveRecord::Schema.define(version: 2018_07_12_073706) do
     t.string "author"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.float "price", default: 0.0, null: false
   end
 
 end
